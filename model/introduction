@@ -1,0 +1,11 @@
+mobile_novit_unireplknet mobilevit第三个模块变uni里的膨胀模块,后两个是普通的mb2
+
+mobile_novit_unireplknet_1 是uni模块 加了1x1
+
+mobile_novit_unireplknet_2 是2个1x1（=len(dilates)）
+
+mobile_novit_unireplknet_3 是加了bias
+
+mobile_novit_unireplknet_4 是 最后只加了一个bias
+
+mobile_novit_unireplknet_5 是 weight初始化为2
