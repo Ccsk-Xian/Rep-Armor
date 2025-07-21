@@ -15,3 +15,6 @@ Utilizing tt.py to transform models into tf-lite version with 8-bit quantization
 
 # Deployment
 We recommend deploying models on MCUs with [X-CUBE-AI](https://www.st.com/en/embedded-software/x-cube-ai.html) and [TinyEngine](https://github.com/mit-han-lab/tinyengine) . X-CUBE-AI is STMicroelectronics’ official AI library for the STM32 family, while TinyEngine—developed by Professor Song Han’s team—is a TinyML inference engine whose patch-based execution and depth-wise-convolution optimizations help avoid peak-memory overflow. Below, we provide example workflows for both libraries.
+
+
+If you have any questions, please contact us at ccsk1wsl@stu.xupt.edu.cn.
