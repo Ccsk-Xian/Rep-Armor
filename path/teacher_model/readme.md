@@ -1,1 +1,1 @@
-the finalNet_best.pth that have not be quantified is too large, if you wanna have a try on our trained model, please contact us, and we will send you the link about .pth file.
+the finalNet_best.pth with final.py can be download at [here](https://pan.baidu.com/s/1VQzZ0tA3VUi7zjoHQCZDUw?pwd=yvcx). if your deployment environments are not support large kernel, the task-simplification layer’s kernel size has been changed from 7 to 3 [here](https://pan.baidu.com/s/1ym2kfUgcJgOcmw2er8cM2Q?pwd=f3x6).
