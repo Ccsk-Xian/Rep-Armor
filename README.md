@@ -4,7 +4,7 @@ The repository for public paper Rep-Armor: Free launch for the tiny lightweight 
 For training models with Rep-Armor, please reference on the structure of MobileNetV2 on final.py in folder of model.
 
     python train.py  --model finalNet --arch_name final—40 --trial 66 --dataset miniImage --cuda 0 --batch_size xx 
-
+We have published the weight of MobileNetV2 with 0.8M parameters at path/teacher_model, which is the weight demonstrated in paper with accuracy 81.73% on Mini-ImageNet.
 # Merging
 After training, use eval_onnx.py to merge temporary structures of Rep-Armor into their target operators. It also help you to get models with onnx version.
 
