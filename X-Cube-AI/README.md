@@ -1,0 +1,1 @@
+Here we only provide main.c for you to refer critical configuration. More details (like error with E801) please reference on [ST community](https://community.st.com/t5/edge-ai/e801-on-stm32h743/m-p/810667#M4862) 
